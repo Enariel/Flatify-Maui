@@ -1,0 +1,132 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <!--  Blue Colors  -->
+	<Color x:Key="BluePrimaryColor">#1CB0F6</Color>
+	<Color x:Key="BlueLightColor">#77d0fa</Color>
+	<Color x:Key="BlueDarkColor">#1896d1</Color>
+	<Color x:Key="BlueDarkerColor">#0e587b</Color>
+
+	<!--  Green Colors  -->
+	<Color x:Key="GreenPrimaryColor">#58cc02</Color>
+	<Color x:Key="GreenLightColor">#9be067</Color>
+	<Color x:Key="GreenDarkColor">#4bad02</Color>
+	<Color x:Key="GreenDarkerColor">#2c6601</Color>
+
+	<!--  Yellow Colors  -->
+	<Color x:Key="YellowPrimaryColor">#ffde00</Color>
+	<Color x:Key="YellowLightColor">#ffeb66</Color>
+	<Color x:Key="YellowDarkColor">#d9bd00</Color>
+	<Color x:Key="YellowDarkerColor">#a69000</Color>
+
+	<!--  Orange Colors  -->
+	<Color x:Key="OrangePrimaryColor">#ff9600</Color>
+	<Color x:Key="OrangeLightColor">#ffc066</Color>
+	<Color x:Key="OrangeDarkColor">#d98000</Color>
+	<Color x:Key="OrangeDarkerColor">#804b00</Color>
+
+	<!--  Red Colors  -->
+	<Color x:Key="RedPrimaryColor">#ff4b4b</Color>
+	<Color x:Key="RedLightColor">#ff9393</Color>
+	<Color x:Key="RedDarkColor">#d94040</Color>
+	<Color x:Key="RedDarkerColor">#802626</Color>
+
+	<!--  Pink Colors  -->
+	<Color x:Key="PinkPrimaryColor">#ff86d0</Color>
+	<Color x:Key="PinkLightColor">#ffb6e3</Color>
+	<Color x:Key="PinkDarkColor">#d972b1</Color>
+	<Color x:Key="PinkDarkerColor">#804368</Color>
+
+	<!--  Purple Colors  -->
+	<Color x:Key="PurplePrimaryColor">#c164ff</Color>
+	<Color x:Key="PurpleLightColor">#daa2ff</Color>
+	<Color x:Key="PurpleDarkColor">#a455d9</Color>
+	<Color x:Key="PurpleDarkerColor">#613280</Color>
+
+	<!--  Bg Colors  -->
+	<Color x:Key="BgColor">#eff2f6</Color>
+	<Color x:Key="BgColor2">#ced9e3</Color>
+	<Color x:Key="BgColor3">#aec0d0</Color>
+	<Color x:Key="BgColor4">#809cb6</Color>
+	<Color x:Key="BgColorDM">#10191c</Color>
+	<Color x:Key="BgColor2DM">#1e2a35</Color>
+	<Color x:Key="BgColor3DM">#2f4051</Color>
+	<Color x:Key="BgColor4DM">#415a71</Color>
+
+	<!--  Text Colors  -->
+	<Color x:Key="TextColorLight">#415a71</Color>
+	<Color x:Key="TextColor">#2f4051</Color>
+	<Color x:Key="TextColorDark">#1e2a35</Color>
+	<Color x:Key="TextColorDarker">#10191c</Color>
+	<Color x:Key="TextColorLightDM">#eff2f6</Color>
+	<Color x:Key="TextColorDM">#ced9e3</Color>
+	<Color x:Key="TextColorDarkDM">#aec0d0</Color>
+	<Color x:Key="TextColorDarkerDM">#809cb6</Color>
+
+	<!--  Accent Colors  -->
+	<Color x:Key="AccentPrimaryColor">#1CB0F6</Color>
+	<Color x:Key="AccentLightColor">#77d0fa</Color>
+	<Color x:Key="AccentDarkColor">#1896d1</Color>
+	<Color x:Key="AccentDarkerColor">#0e587b</Color>
+
+	<!--  Info Colors  -->
+	<Color x:Key="InfoPrimaryColor">#1CB0F6</Color>
+	<Color x:Key="InfoLightColor">#77d0fa</Color>
+	<Color x:Key="InfoDarkColor">#1896d1</Color>
+	<Color x:Key="InfoDarkerColor">#0e587b</Color>
+
+	<!--  Success Colors  -->
+	<Color x:Key="SuccessPrimaryColor">#58cc02</Color>
+	<Color x:Key="SuccessLightColor">#9be067</Color>
+	<Color x:Key="SuccessDarkColor">#4bad02</Color>
+	<Color x:Key="SuccessDarkerColor">#2c6601</Color>
+
+	<!--  Warning Colors  -->
+	<Color x:Key="WarningPrimaryColor">#ff9600</Color>
+	<Color x:Key="WarningLightColor">#ffc066</Color>
+	<Color x:Key="WarningDarkColor">#d98000</Color>
+	<Color x:Key="WarningDarkerColor">#804b00</Color>
+
+	<!--  Danger Colors  -->
+	<Color x:Key="DangerPrimaryColor">#ff4b4b</Color>
+	<Color x:Key="DangerLightColor">#ff9393</Color>
+	<Color x:Key="DangerDarkColor">#d94040</Color>
+	<Color x:Key="DangerDarkerColor">#802626</Color>
+
+	<!--  Link Colors  -->
+	<Color x:Key="LinkColor">#1CB0F6</Color>
+	<Color x:Key="LinkColorHover">#77d0fa</Color>
+	<Color x:Key="LinkColorFocus">#1896d1</Color>
+
+	<Color x:Key="WhiteColor">#ffffff</Color>
+	<Color x:Key="BlackColor">#10191c</Color>
+    
+    <!--  Grey Colors  -->
+    <Color x:Key="Grey0">#ffffff</Color>
+    <Color x:Key="Grey1">#eff2f6</Color>
+    <Color x:Key="Grey2">#ced9e3</Color>
+    <Color x:Key="Grey3">#aec0d0</Color>
+    <Color x:Key="Grey4">#809cb6</Color>
+    <Color x:Key="Grey5">#6d8dab</Color>
+    <Color x:Key="Grey6">#547492</Color>
+    <Color x:Key="Grey7">#415a71</Color>
+    <Color x:Key="Grey8">#2f4051</Color>
+    <Color x:Key="Grey9">#1e2a35</Color>
+    <Color x:Key="Grey10">#090d10</Color>
+
+	<SolidColorBrush x:Key="WhiteBrush" Color="{StaticResource WhiteColor}" />
+	<SolidColorBrush x:Key="BlackBrush" Color="{StaticResource BlackColor}" />
+
+	<SolidColorBrush x:Key="AccentBrush" Color="{StaticResource AccentPrimaryColor}" />
+	<SolidColorBrush x:Key="InfoBrush" Color="{StaticResource InfoPrimaryColor}" />
+	<SolidColorBrush x:Key="SuccessBrush" Color="{StaticResource SuccessPrimaryColor}" />
+	<SolidColorBrush x:Key="WarningBrush" Color="{StaticResource WarningPrimaryColor}" />
+	<SolidColorBrush x:Key="DangerBrush" Color="{StaticResource DangerPrimaryColor}" />
+
+	<SolidColorBrush x:Key="AccentBrushDM" Color="{StaticResource AccentLightColor}" />
+	<SolidColorBrush x:Key="InfoBrushDM" Color="{StaticResource InfoLightColor}" />
+	<SolidColorBrush x:Key="SuccessBrushDM" Color="{StaticResource SuccessLightColor}" />
+	<SolidColorBrush x:Key="WarningBrushDM" Color="{StaticResource WarningLightColor}" />
+	<SolidColorBrush x:Key="DangerBrushDM" Color="{StaticResource DangerLightColor}" />
+
+    
+</ResourceDictionary>
